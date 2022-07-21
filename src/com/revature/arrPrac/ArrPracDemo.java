@@ -6,9 +6,9 @@ public class ArrPracDemo {
 /*
  * ASSIGNMENT DUE ON MONDAY (06202022)
 Write a java program to create an array of 11 elements, In the array, do the following:
-1.	Assign value to individual array elements – random values
-2.	Display the array using the enhanced for loop
-3.	Calculate and display the sum of the elements of the array
+1.	Assign value to individual array elements – random values  - Done 
+2.	Display the array using the enhanced for loop  - Done 
+3.	Calculate and display the sum of the elements of the array - Done
 4.	Display all the even numbers in the array
 5.	Display all the odd numbers in the array
 6.	Calculate and display the sum of even and odd numbers
@@ -35,34 +35,6 @@ Write a java program to create an array of 11 elements, In the array, do the fol
 		for(int e : arr) {
 		System.out.println( e);	
 		}
-	//#3 
-		int sum = 0; 
-    for(int wsum : arr) {
-    	sum+=wsum;
-    System.out.println(sum);	
-    
-   
-    }
-   
 	
-    
-    
-    
-    
-    
-    //8
-    
-    
-	}		
-	
-
-   
-   
-   
-   //#8
-  // public static int aveArr (int [] arr) {
-	//   int aveie = 
-	  // return (int) aveie/ arr.length;
-  // }
-   
+	}
 }
